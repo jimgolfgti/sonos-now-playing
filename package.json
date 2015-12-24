@@ -1,0 +1,40 @@
+{
+  "name": "sonos-now-playing",
+  "version": "0.0.0",
+  "description": "Now Playing overlay for dashboards",
+  "main": "index.js",
+  "dependencies": {
+    "sonos": "^0.9.0",
+    "xml2js": "^0.4.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jimgolfgti/sonos-now-playing"
+  },
+  "keywords": [
+    "sonos",
+    "dashboard"
+  ],
+  "author": {
+    "name": "James Hopper",
+    "url": "https://github.com/jimgolfgti"
+  },
+  "contributors": [
+    {
+      "name": "James Parker",
+      "url": "https://github.com/james226"
+    },
+    {
+      "name": "Robin Cox",
+      "url": "https://github.com/robinjdcox"
+    }
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimgolfgti/sonos-now-playing/issues"
+  }
+}
